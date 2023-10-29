@@ -28,13 +28,18 @@ Your Royal Mail parcel from eBay has a unpaid £2.99 shipping fee, pay now at: `
 <summary>Notes</summary>
 
 Q: What's wrong with this message?
+
 A:
 - Link is not the Royal Mail site.
 - Royal mail does not request payment via text
+
 Q: How do they convince you to act without thinking?
+
 A:
 - Uses urgency of the parcel being destroyed
+
 Q: What private information may be gathered?
+
 A:
 - Card Details
 - Address
