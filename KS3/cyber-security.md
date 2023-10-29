@@ -12,11 +12,13 @@ Search for `Protect yourself from phishing site:microsoft.com`. [Direct Link](ht
 
 <details>
 <summary>Notes</summary>
+
 - Call To Action (create urgency)
 - Poor spelling and grammar
 - Generic greetings
 - Odd email domains
 - Links or Attachments
+
 </details>
 
 ### Example SMS
@@ -24,23 +26,20 @@ Your Royal Mail parcel from eBay has a unpaid £2.99 shipping fee, pay now at: `
 
 <details>
 <summary>Notes</summary>
-Q: What's wrong with this message?
 
+Q: What's wrong with this message?
 A:
 - Link is not the Royal Mail site.
 - Royal mail does not request payment via text
-
 Q: How do they convince you to act without thinking?
-
 A:
 - Uses urgency of the parcel being destroyed
-
 Q: What private information may be gathered?
-
 A:
 - Card Details
 - Address
 - Name
+
 </details>
 
 
@@ -59,11 +58,13 @@ Find the definitions for the types. Search for `Malware and security site:bbc.co
 
 <details>
 <summary>Notes</summary>
+
 - Virus - Harms your computer by altering or deleting files
 - Trojan - Gives unauthorized access to computer
 - Worms - Self replicate
 - Spyware - Collects information and sends to a third-party
 - Scareware - Tricks you into buying software or service
+
 </details>
 
 ### How Can We Prevent?
@@ -79,5 +80,7 @@ Find the definitions for the types. Search for `Malware and security site:bbc.co
 
 <details>
 <summary>Notes</summary>
+
 Q: What does an anti-virus do?
+
 </details>
